@@ -1,0 +1,22 @@
+{
+  "name": "my-little-ci",
+  "version": "1.0.0",
+  "description": "Continuous Integration Software",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PonyCare/my-little-ci.git"
+  },
+  "author": "My Little Unicorn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PonyCare/my-little-ci/issues"
+  },
+  "homepage": "https://github.com/PonyCare/my-little-ci#readme"
+}
