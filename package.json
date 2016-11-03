@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/PonyCare/my-little-ci/issues"
   },
-  "homepage": "https://github.com/PonyCare/my-little-ci#readme"
+  "homepage": "https://github.com/PonyCare/my-little-ci#readme",
+  "dependencies": {
+    "getconfig": "3.x.x",
+    "good": "7.x.x",
+    "good-console": "6.x.x",
+    "hapi": "15.x.x"
+  }
 }
